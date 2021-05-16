@@ -55,3 +55,7 @@ if __name__ == '__main__':
     os.system('taskkill /f /im firefox.exe')
 
     main()
+# Claim TLM
+def ClaimTLM():
+    while True:
+        delay_time = 300  # Wait 5 minutes then start new claim
