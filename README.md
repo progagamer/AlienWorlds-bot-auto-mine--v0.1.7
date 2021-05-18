@@ -18,7 +18,7 @@ Bot setup:
 7. pip install selenium-requests
 8. Install Mozilla Firefox If you already have it, check that the version is 90+
 9. Install Node JS 14.17 LTS (as of 05/13/2021)
-10. Go to config.py and in the CAPTCHA_KEY = 'ce58a608a8fb5ffcb092eb17fa4bcf55' field insert your captcha key https://anti-captcha.com/ (Works only on it) Do not touch the rest in the config, otherwise you will break everything.
+10. Go to config.py and in the CAPTCHA_KEY = '        ' field insert your captcha key https://anti-captcha.com/ (Works only on it) Do not touch the rest in the config, otherwise you will break everything.
 11. The bot is ready, it remains to set up your accounts.
 
 Preparing accounts.
