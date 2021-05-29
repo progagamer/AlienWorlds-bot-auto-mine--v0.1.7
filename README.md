@@ -1,3 +1,5 @@
+Fix no captcha
+Fix claim nft every 10 hours
 This bot automatically mines TLM and solves the captcha through the Anti-Captha service
 
 English/Russian
